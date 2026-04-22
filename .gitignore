@@ -40,3 +40,4 @@ internal/api
 .opencode/plans
 .opencode/package-lock.json
 node_modules
+config.toml
